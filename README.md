@@ -1,3 +1,3 @@
 Installation: pip install -r requirements.txt
 
-Start: python main.py
+Start: python3 main.py
